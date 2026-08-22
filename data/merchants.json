@@ -1,0 +1,252 @@
+[
+  {
+    "merchant_id": "MID1000",
+    "name": "Chaudry-Ravi",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1001",
+    "name": "Rajagopalan-Kade",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1002",
+    "name": "Jaggi, Naidu and Arora",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1003",
+    "name": "Bail-Sami",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1004",
+    "name": "Iyengar, Toor and Oak",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1005",
+    "name": "Venkataraman-Hegde",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1006",
+    "name": "D\u2019Alia, Chandra and Barad",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1007",
+    "name": "Nayak Group",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1008",
+    "name": "Mander, Sankar and Dalal",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1009",
+    "name": "Kalita Inc",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1010",
+    "name": "Chahal, Luthra and Kibe",
+    "category": "beauty"
+  },
+  {
+    "merchant_id": "MID1011",
+    "name": "Rout, Chatterjee and Trivedi",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1012",
+    "name": "Patel and Sons",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1013",
+    "name": "Chada Group",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1014",
+    "name": "Dutta, Choudhry and Dhawan",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1015",
+    "name": "Dyal PLC",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1016",
+    "name": "Iyer, Palla and Sen",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1017",
+    "name": "Deol LLC",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1018",
+    "name": "Manda-Dyal",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1019",
+    "name": "Chad Ltd",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1020",
+    "name": "Doctor-Badal",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1021",
+    "name": "Gara and Sons",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1022",
+    "name": "Ahuja LLC",
+    "category": "beauty"
+  },
+  {
+    "merchant_id": "MID1023",
+    "name": "Sangha-Kumar",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1024",
+    "name": "Dugal, Dayal and Loyal",
+    "category": "beauty"
+  },
+  {
+    "merchant_id": "MID1025",
+    "name": "Bhatnagar-Vala",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1026",
+    "name": "Sidhu, Ray and Nagy",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1027",
+    "name": "Khurana-Zachariah",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1028",
+    "name": "Rai-Bajwa",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1029",
+    "name": "Sangha-Chaudhary",
+    "category": "beauty"
+  },
+  {
+    "merchant_id": "MID1030",
+    "name": "Dhawan-Dave",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1031",
+    "name": "Singh-Thakkar",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1032",
+    "name": "Nanda, Mall and Subramaniam",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1033",
+    "name": "Lall-Bhavsar",
+    "category": "fashion"
+  },
+  {
+    "merchant_id": "MID1034",
+    "name": "Ramanathan-Mital",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1035",
+    "name": "Dua Ltd",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1036",
+    "name": "Savant-Mital",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1037",
+    "name": "Dixit-Ganesan",
+    "category": "beauty"
+  },
+  {
+    "merchant_id": "MID1038",
+    "name": "Ghose-Varughese",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1039",
+    "name": "Kunda, Sodhi and Manda",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1040",
+    "name": "Zacharia PLC",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1041",
+    "name": "Bail Ltd",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1042",
+    "name": "Desai, Ravi and Borde",
+    "category": "grocery"
+  },
+  {
+    "merchant_id": "MID1043",
+    "name": "Sarkar-Vaidya",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1044",
+    "name": "Buch, Sharma and Bhandari",
+    "category": "beauty"
+  },
+  {
+    "merchant_id": "MID1045",
+    "name": "Kothari-Sarma",
+    "category": "sports"
+  },
+  {
+    "merchant_id": "MID1046",
+    "name": "Bora Group",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1047",
+    "name": "Gole, Khurana and Kumer",
+    "category": "beauty"
+  },
+  {
+    "merchant_id": "MID1048",
+    "name": "Divan Group",
+    "category": "electronics"
+  },
+  {
+    "merchant_id": "MID1049",
+    "name": "Subramanian, Atwal and Kalla",
+    "category": "sports"
+  }
+]

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Streamlit secrets — NEVER commit private keys
+.streamlit/secrets.toml
+
+# Archive / local duplicates
+ringguard_FINAL.zip
+ringguard-ai/
+
+# IDE
+.vscode/
+.idea/
+*.swp

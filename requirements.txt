@@ -1,0 +1,8 @@
+google-genai
+streamlit>=1.35.0
+faker
+networkx
+scikit-learn
+plotly
+pandas
+numpy

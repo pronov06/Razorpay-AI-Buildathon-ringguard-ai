@@ -1,0 +1,120 @@
+[
+  {
+    "run_id": "RUN_0001",
+    "timestamp": "2026-08-23T01:17:14.050367",
+    "source": "manual_ui",
+    "rings_detected": 3,
+    "metrics": {
+      "total_fraud_returns": 30,
+      "detected_fraud_returns": 30,
+      "recall": 1.0,
+      "precision": 1.0,
+      "false_positives": 0,
+      "false_positive_cost_inr": 0,
+      "rings_detected": 3
+    },
+    "ring_summary": [
+      {
+        "cluster_id": "RING_1",
+        "confidence_score": 100,
+        "member_count": 10,
+        "merchant_count": 4,
+        "damage_inr": 49822,
+        "precision": 1.0,
+        "signals_used": [
+          "unique_devices",
+          "unique_bins",
+          "device_fingerprints"
+        ],
+        "llm_verdict": "Pattern: 10 customers share identical device fingerprints across 4 merchants, with ₹49,822 in coordinated returns within a 48-hour window — statistically impossible by chance. This is a coordinated abuse ring: single-merchant tools see 1 suspicious customer; RingGuard sees the full ring of 10 operating together. Recommended action: freeze all 10 accounts immediately and alert all 4 affected merchants with shared evidence."
+      },
+      {
+        "cluster_id": "RING_2",
+        "confidence_score": 100,
+        "member_count": 10,
+        "merchant_count": 3,
+        "damage_inr": 52173,
+        "precision": 1.0,
+        "signals_used": [
+          "unique_devices",
+          "unique_bins",
+          "device_fingerprints"
+        ],
+        "llm_verdict": "Pattern: 10 customers share identical device fingerprints across 3 merchants, with ₹52,173 in coordinated returns within a 48-hour window — statistically impossible by chance. This is a coordinated abuse ring: single-merchant tools see 1 suspicious customer; RingGuard sees the full ring of 10 operating together. Recommended action: freeze all 10 accounts immediately and alert all 3 affected merchants with shared evidence."
+      },
+      {
+        "cluster_id": "RING_3",
+        "confidence_score": 100,
+        "member_count": 10,
+        "merchant_count": 3,
+        "damage_inr": 42788,
+        "precision": 1.0,
+        "signals_used": [
+          "unique_devices",
+          "unique_bins",
+          "device_fingerprints"
+        ],
+        "llm_verdict": "Pattern: 10 customers share identical device fingerprints across 3 merchants, with ₹42,788 in coordinated returns within a 48-hour window — statistically impossible by chance. This is a coordinated abuse ring: single-merchant tools see 1 suspicious customer; RingGuard sees the full ring of 10 operating together. Recommended action: freeze all 10 accounts immediately and alert all 3 affected merchants with shared evidence."
+      }
+    ]
+  },
+  {
+    "run_id": "RUN_0002",
+    "timestamp": "2026-08-23T01:18:27.060156",
+    "source": "manual_ui",
+    "rings_detected": 3,
+    "metrics": {
+      "total_fraud_returns": 30,
+      "detected_fraud_returns": 30,
+      "recall": 1.0,
+      "precision": 1.0,
+      "false_positives": 0,
+      "false_positive_cost_inr": 0,
+      "rings_detected": 3
+    },
+    "ring_summary": [
+      {
+        "cluster_id": "RING_1",
+        "confidence_score": 100,
+        "member_count": 10,
+        "merchant_count": 4,
+        "damage_inr": 49822,
+        "precision": 1.0,
+        "signals_used": [
+          "unique_devices",
+          "unique_bins",
+          "device_fingerprints"
+        ],
+        "llm_verdict": "Pattern: 10 customers share identical device fingerprints across 4 merchants, with ₹49,822 in coordinated returns within a 48-hour window — statistically impossible by chance. This is a coordinated abuse ring: single-merchant tools see 1 suspicious customer; RingGuard sees the full ring of 10 operating together. Recommended action: freeze all 10 accounts immediately and alert all 4 affected merchants with shared evidence."
+      },
+      {
+        "cluster_id": "RING_2",
+        "confidence_score": 100,
+        "member_count": 10,
+        "merchant_count": 3,
+        "damage_inr": 52173,
+        "precision": 1.0,
+        "signals_used": [
+          "unique_devices",
+          "unique_bins",
+          "device_fingerprints"
+        ],
+        "llm_verdict": "Pattern: 10 customers share identical device fingerprints across 3 merchants, with ₹52,173 in coordinated returns within a 48-hour window — statistically impossible by chance. This is a coordinated abuse ring: single-merchant tools see 1 suspicious customer; RingGuard sees the full ring of 10 operating together. Recommended action: freeze all 10 accounts immediately and alert all 3 affected merchants with shared evidence."
+      },
+      {
+        "cluster_id": "RING_3",
+        "confidence_score": 100,
+        "member_count": 10,
+        "merchant_count": 3,
+        "damage_inr": 42788,
+        "precision": 1.0,
+        "signals_used": [
+          "unique_devices",
+          "unique_bins",
+          "device_fingerprints"
+        ],
+        "llm_verdict": "Pattern: 10 customers share identical device fingerprints across 3 merchants, with ₹42,788 in coordinated returns within a 48-hour window — statistically impossible by chance. This is a coordinated abuse ring: single-merchant tools see 1 suspicious customer; RingGuard sees the full ring of 10 operating together. Recommended action: freeze all 10 accounts immediately and alert all 3 affected merchants with shared evidence."
+      }
+    ]
+  }
+]
