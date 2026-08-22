@@ -106,7 +106,7 @@ Streamlit will:
 1. Clone your repo
 2. Install `requirements.txt` automatically
 3. Run `streamlit run app.py`
-4. Give you a public URL like `https://ringguard-ai.streamlit.app`
+4. Give you a public URL: **[`https://pronov06-razorpay-ai-buildathon-ringguard-ai-app-lb9jum.streamlit.app/`](https://pronov06-razorpay-ai-buildathon-ringguard-ai-app-lb9jum.streamlit.app/)**
 
 First deploy takes ~2–3 minutes.
 

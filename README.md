@@ -7,10 +7,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red?style=flat-square&logo=streamlit)
 ![Gemini](https://img.shields.io/badge/Gemini-2.0--flash-orange?style=flat-square&logo=google)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pronov06-razorpay-ai-buildathon-ringguard-ai-app-lb9jum.streamlit.app/)
 
 **The only fraud detection tool that sees across all merchants at once.**
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+🚀 **[Live Streamlit Demo](https://pronov06-razorpay-ai-buildathon-ringguard-ai-app-lb9jum.streamlit.app/)** · [Report Bug](https://github.com/pronov06/Razorpay-AI-Buildathon-ringguard-ai/issues) · [Request Feature](https://github.com/pronov06/Razorpay-AI-Buildathon-ringguard-ai/issues)
 
 </div>
 
