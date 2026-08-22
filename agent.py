@@ -26,6 +26,13 @@ def _get_client():
         from google import genai
         api_key = os.environ.get("GEMINI_API_KEY", "")
         if not api_key:
+            try:
+                import streamlit as st
+                if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
+                    api_key = st.secrets["GEMINI_API_KEY"]
+            except Exception:
+                pass
+        if not api_key:
             logger.warning("GEMINI_API_KEY not set — LLM verdicts will use fallback text")
         _client = genai.Client(api_key=api_key)
     return _client
